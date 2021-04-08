@@ -5,3 +5,8 @@
 .bg-disabled {
     background-color: $gray-400;
 }
+
+.form-select {
+    -webkit-appearance: none !important;
+    appearance: none !important;
+}
